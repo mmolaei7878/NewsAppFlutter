@@ -1,4 +1,4 @@
-# News App Flutter : Localization, Sqflite, RestApi
+# News App Flutter : Localization, Sqflite, Push Notification, RestApi
 
 # Serializing JSON inline
 
