@@ -1,7 +1,7 @@
 # News App Flutter
 # StateManagment : Provider
 # JsonDecoding : Serializing JSON inline
-## Features : Localization, Sqflite, Push Notification, RestApi
+## Features : Internationalization, Sqflite, Push Notification, RestApi
 
 
 
